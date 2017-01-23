@@ -6,3 +6,10 @@
 	ls = shows all documents in the directory your in
 	pwd = Prints the name of the current working directory
 	mkdir = creates a directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = copies everything from github to your git
+	git log = Shows the commit logs
+	git status = shows the working tree status	
+	git diff =  Show changes between commits, commit and working tree, etc
+	git checkout =  Switch branches or restore working tree files
