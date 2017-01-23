@@ -1,2 +1,8 @@
 #Git spurningar og svör
 #Prufa
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = Use it to change your directory
+	cd ~ = Takes you to home directory
+	ls = shows all documents in the directory your in
+	pwd = Prints the name of the current working directory
+	mkdir = creates a directory
