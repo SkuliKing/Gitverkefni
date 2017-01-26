@@ -32,3 +32,6 @@
 	staging area : is basicly where you get to decide what files get sent or not
 
 	Repository : is basicly the history of the work you have done.
+	
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+		when you know you are going to have to have alot of folders for something and to make it easier to find what you are looking for.
