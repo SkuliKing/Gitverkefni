@@ -18,4 +18,5 @@
 	a) git diff =Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes between two blob objects, or changes between two files on disk.
 	b) git diff --staged =makes it local but not public
 	c) git diff commit1 commit2 = the final step making it public
-4. 	Hvað er útgáfustýring (e.version control)? Version control systems are a category of software tools that help a software team manage changes to source code over time. 
+4. Hvað er útgáfustýring (e.version control)? Version control systems are a category of software tools that help a software team manage changes to source code over time. 
+5. Hverjir eru helstu kostir við að nota GIT? If there are alot of people working on the same project you can see who did what and who made what changes and if needed you can go back if you made a mistake
