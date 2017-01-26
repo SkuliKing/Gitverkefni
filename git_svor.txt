@@ -25,3 +25,10 @@
 
 6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	at least 10 times for every question. or more if you wanna change any of the answers you gave .
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+	working directory : is the current directory you are working on and is being tracket
+
+	staging area : is basicly where you get to decide what files get sent or not
+
+	Repository : is basicly the history of the work you have done.
