@@ -38,3 +38,6 @@
 
 9.	Hver fann upp GIT?
 		 Linus Torvalds in 2005 for development of the Linux kernel
+
+10.	Hvar er GIT helst notað?
+		git can be used by anyone who has to do anything with moving or changing any type of files but it is mostly used by programers or web designers
